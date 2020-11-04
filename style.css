@@ -1,0 +1,23 @@
+.wrapper{
+  width: 90%;
+  margin: 0 auto;
+}
+.car{
+  display: inline-block;
+  position: relative;
+  float: left;
+  width: 50%;
+  padding-top: 33%;
+  background-image: url(car.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: hard-light;
+}
+.controls{
+  display: inline-block;
+  float: left;
+  width: 50%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
