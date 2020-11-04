@@ -15,7 +15,6 @@
   background-blend-mode: hard-light;
 }
 .controls{
-  display: inline-block;
   float: left;
   width: 50%;
   padding: 10px 20px;
