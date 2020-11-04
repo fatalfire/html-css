@@ -1,9 +1,11 @@
+body{
+  margin: 0;
+}
 .wrapper{
   width: 90%;
   margin: 0 auto;
 }
 .car{
-  display: inline-block;
   position: relative;
   float: left;
   width: 50%;
